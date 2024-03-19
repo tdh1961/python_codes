@@ -1,0 +1,13 @@
+JOBS_NAME,JOB_URL,JOB_LAST_BUILD_STATUS
+ansible-project,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/ansible-project/,red
+devops-ci,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/devops-ci/,blue
+first_job,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/first_job/,blue
+geo-app,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/geo-app/,blue
+maven-pipeline,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/maven-pipeline/,blue
+maven_Job1,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/maven_Job1/,red
+maven_project,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/maven_project/,blue
+pipeline-ansible,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/pipeline-ansible/,blue
+pipeline-job1,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/pipeline-job1/,blue
+Project,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/Project/,
+terraform-codes,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/terraform-codes/,blue
+test-trigger,http://ec2-35-174-18-70.compute-1.amazonaws.com:8080/job/test-trigger/,blue
